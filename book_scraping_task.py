@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-
+ 
 # Imports for Google Colab auto-download
 from google.colab import files
 
@@ -88,7 +88,7 @@ df['in_stock'] = df['in_stock'].astype(bool)
 conn = sqlite3.connect(db_filename)
 df.to_sql("books", conn, if_exists="replace", index=False)
 conn.close()
-
+ 
 print("Files saved successfully!")
 
 # Display a quick preview in Colab
