@@ -120,7 +120,7 @@ Automating currency symbol (`£`) stripping using regex directly inside the Pyth
 
 Here is an interactive preview of the executive dashboard built using Power BI Desktop:
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboard.png.png)
 
 ### Key Insights & KPIs Covered:
 - **Total Books Scraped & Average Price**: Real-time aggregation of catalog metrics.
