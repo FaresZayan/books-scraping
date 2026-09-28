@@ -116,3 +116,14 @@ Automating currency symbol (`£`) stripping using regex directly inside the Pyth
 * Add custom request headers (`User-Agent` spoofing).
 * Implement proxy server rotation.
 * Upgrade to browser automation frameworks like `Playwright` or `Selenium` to handle potential dynamic JavaScript challenges.
+  ## 📊 Power BI Dashboard
+
+Here is an interactive preview of the executive dashboard built using Power BI Desktop:
+
+![Power BI Dashboard](dashboard.png)
+
+### Key Insights & KPIs Covered:
+- **Total Books Scraped & Average Price**: Real-time aggregation of catalog metrics.
+- **Price vs. Rating Analysis**: Visualizing pricing trends across rating tiers.
+- **Stock Availability**: Monitoring inventory levels.
+- **Top 5 Most Expensive Books**: Highlighting premium inventory.
